@@ -1,12 +1,12 @@
 {
-    'name': 'SU Dynamic ListView Odoo 10',
-    'summary': 'SU Dynamic ListView Odoo 10',
+    'name': 'POS SHOW STATUS',
+    'summary': '',
     'version': '1.0',
     'category': 'Web',
     'description': """
-        SU Dynamic ListView Odoo 10
+       
     """,
-    'author': "startup",
+    'author': "",
     'depends': ['web'],
     'data': [
         'views/templates.xml',
@@ -23,6 +23,6 @@
     'auto_install': False,
     'application': False,
     'images': [
-        'static/description/module_image.png',
+ 
     ],
 }
