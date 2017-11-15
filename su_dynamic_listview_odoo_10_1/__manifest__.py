@@ -1,10 +1,10 @@
 {
-    'name': 'SU Dynamic ListView Odoo 10',
-    'summary': 'SU Dynamic ListView Odoo 10',
+    'name': 'ALD PLK',
+    'summary': '',
     'version': '1.0',
     'category': 'Web',
     'description': """
-        SU Dynamic ListView Odoo 10
+        
     """,
     'author': "startup",
     'depends': ['web'],
